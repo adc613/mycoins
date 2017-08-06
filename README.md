@@ -11,6 +11,7 @@ docker run --it --rm --name mycoins adc613/mycoins
 ## Git
 The other way to run is to clone and cd into this repo. Then simply run
 ```
+pip3 install -r requirements.txt
 python3 main.py
 ```
 
